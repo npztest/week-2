@@ -4,7 +4,7 @@
 
 ## Week 1 Review
 
-### Git/Github addendum
+### Git/Github addendum 
 - Forking
 - Pull requests
 
